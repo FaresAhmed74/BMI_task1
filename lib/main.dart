@@ -42,7 +42,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.black87,
+        backgroundColor: Colors.black54,
         title: Center(
           child: Text(
               "BMI CALCULATOR", style: TextStyle(fontWeight: FontWeight.bold,color: Colors.green),
